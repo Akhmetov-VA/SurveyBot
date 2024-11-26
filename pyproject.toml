@@ -11,6 +11,14 @@ bson = "^0.5.10"
 pymongo = "^4.10.1"
 python-dotenv = "^1.0.1"
 python-telegram-bot = {extras = ["job-queue"], version = "^21.7"}
+streamlit = "^1.40.1"
+matplotlib = "^3.9.2"
+nltk = "^3.9.1"
+wordcloud = "^1.9.4"
+pymorphy2 = {git = "https://github.com/pymorphy2-fork/pymorphy2.git"}
+setuptools = "^75.6.0"
+dawg2-python = "^0.8.1"
+dawg2 = "^0.13.1"
 
 [build-system]
 requires = ["poetry-core"]

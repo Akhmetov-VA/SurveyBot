@@ -4,6 +4,8 @@ import os
 
 from dotenv import load_dotenv
 
+SUPER_USER_ID = 77269896
+
 # Load environment variables
 load_dotenv()
 
